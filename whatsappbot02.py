@@ -47,3 +47,5 @@ for contato in contatos:
 # xpath busca: //*[@id="side"]/div[1]/div/label/div/div[2]
 
 # xpath enviar mensagem: //*[@id="main"]/footer/div[1]/div/span[2]/div/div[2]/div[1]/div/div[2]
+
+# Teste 17:03
