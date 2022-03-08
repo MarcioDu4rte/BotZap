@@ -48,4 +48,4 @@ for contato in contatos:
 
 # xpath enviar mensagem: //*[@id="main"]/footer/div[1]/div/span[2]/div/div[2]/div[1]/div/div[2]
 
-# Teste 17:03
+# Teste 17:03:00
